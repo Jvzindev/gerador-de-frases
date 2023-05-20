@@ -1,0 +1,32 @@
+body {
+    background: black;
+    text-align: center;
+}
+button {
+    font: normal 10pt Arial;
+    letter-spacing: 2px;
+    border: none;
+    background:	#A020F0;
+    color: white;
+    border-radius: 3px;
+    padding: 20px;
+    margin: 10px;
+    cursor: pointer;
+}
+div#frases {
+    color: white;
+    font: normal 17pt Arial;
+    padding: 200px;
+}
+div#txt {
+    margin-top: -100px;
+}
+footer {
+    letter-spacing: 2px;
+    color: white;
+    font: normal 10pt Arial;
+    position: fixed;
+    bottom: 20px;
+    left: 0;
+    right: 0;
+}
